@@ -1,0 +1,18 @@
+
+
+.card {
+    background-color: lightgray;
+    border: 1px solid darkgrey;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-bottom: 30px;
+
+}
+
+
+.card img {
+    width: 50px;
+
+}
+
+
